@@ -3,7 +3,7 @@
 Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech world, passionate about learning and contributing to exciting projects. I am eager to dive into the world of full-stack development, and I am always looking for opportunities to expand my knowledge and skills.
 
 - 🌱 I’m currently learning React Native, Node.js, MongoDB, Express.js, and JavaScript.
-- 📫 How to reach me: [Abhinandvk41@gmail.com](mailto:Abhinandvk41@gmail.com)
+- 📫 How to reach me: [hitesh01dhankhar@gmail.com](mailto:hitesh01dhankhar@gmail.com)
 
 
 
