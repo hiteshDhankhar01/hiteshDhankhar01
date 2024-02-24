@@ -2,7 +2,7 @@
 
 Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech world, passionate about learning and contributing to exciting projects. I am eager to dive into the world of full-stack development, and I am always looking for opportunities to expand my knowledge and skills.
 
-- 🌱 I’m currently learning React Native, Node.js, MongoDB, Express.js, and JavaScript.
+- 🌱 I’m currently learning React , Node.js, MongoDB, Express.js, and JavaScript.
 - 📫 How to reach me: [hitesh01dhankhar@gmail.com](mailto:hitesh01dhankhar@gmail.com)
 
 
@@ -27,10 +27,8 @@ Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshDhankhar01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshDhankhar01&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=hiteshDhankhar01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
