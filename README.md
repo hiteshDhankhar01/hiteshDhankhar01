@@ -1,16 +1,13 @@
 ## 💫 About Me:
 
-Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech world, passionate about learning and contributing to exciting projects. I am eager to dive into the world of full-stack development, and I am always looking for opportunities to expand my knowledge and skills.
+Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech world, passionate about learning and contributing to exciting projects. I am eager to dive into the world of full-stack development, an  d I am always looking for opportunities to expand my knowledge and skills.
 
 - 🌱 I’m currently learning React , Node.js, MongoDB, Express.js, and JavaScript.
 - 📫 How to reach me: [hitesh01dhankhar@gmail.com](mailto:hitesh01dhankhar@gmail.com)
 
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hitesh-dhankhar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=H&logoColor=white)](https://hvisual.vercel.app/) 
-
 
 # 💻 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -26,9 +23,7 @@ Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
 ## 📊 My Top Languages
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshDhankhar01&layout=compact&theme=holi&Color=white)](https://github.com/hiteshDhankhar01)
-
 
