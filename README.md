@@ -29,6 +29,6 @@ Hello there! Welcome to my GitHub repository. I'm Hitesh, a fresher in the tech 
 
 ## 📊 My Top Languages
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshDhankhar01&layout=compact&theme=gray)](https://github.com/hiteshDhankhar01)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshDhankhar01&layout=compact&theme=shadow_red)](https://github.com/hiteshDhankhar01)
 
 
