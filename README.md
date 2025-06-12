@@ -1,12 +1,6 @@
 # 👋 Hi, I'm Hitesh
 
-Welcome to my GitHub! I'm a **Full Stack Developer** with a passion for learning, problem-solving, and building modern web applications. I focus on creating scalable, responsive, and secure solutions using the latest technologies.
-
----
-
-## 💼 Professional Summary
-
-As a **Full Stack Developer**, I specialize in building scalable, responsive, and secure web applications. I have hands-on experience in both frontend and backend development, with a solid foundation in software engineering principles. I'm comfortable integrating third-party APIs, working with modern developer tools, and leveraging AI technologies to enhance productivity. Passionate about writing clean, maintainable code and delivering intuitive, user-friendly digital experiences.
+Welcome to my GitHub! I'm a **Full Stack Developer** with a passion for learning, problem-solving, and building modern web applications. I specialize in building scalable, responsive, and secure web applications. I have hands-on experience in both frontend and backend development, with a solid foundation in software engineering principles. I'm comfortable integrating third-party APIs, working with modern developer tools, and leveraging AI technologies to enhance productivity. Passionate about writing clean, maintainable code and delivering intuitive, user-friendly digital experiences.
 
 ---
 ## 💻 Tech Stack
